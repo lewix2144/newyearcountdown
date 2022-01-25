@@ -1,2 +1,2 @@
 # ❄ New Year Countdown
-Öylesine yaptığım yeni yıl sayacı
+**Öylesine yaptığım yeni yıl sayacı**
